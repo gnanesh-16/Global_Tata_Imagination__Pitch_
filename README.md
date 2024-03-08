@@ -1,4 +1,4 @@
-# **Global_Hacthon_Pitch_Gnanesh**
+# *Tata-Imagination_Pitch_Gnanesh**
 **TATA IMAGINATION -CERTIFICATION/Gnanesh**
 
 **Innovative Communication Glove Concept:**  Crafted to empower individuals who cannot Communicate this gesture glo allowing for interaction, through hand gestures developed by @gnanesh.
