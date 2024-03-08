@@ -1,7 +1,7 @@
 # *Tata-Imagination_Pitch_Gnanesh**
 **TATA IMAGINATION -CERTIFICATION/Gnanesh**
 
-**Innovative Communication Glove Concept:**  Crafted to empower individuals who cannot Communicate this gesture glo allowing for interaction, through hand gestures developed by @gnanesh.
+**Innovative Communication Glove Concept:**  Crafted to empower individuals who cannot Communicate this gesture glo allowing for interaction, through hand gestures developed.
 
 **User-Centric Design:** Incorporating Features intuitive gesture controls based on a comprehensive user manual, ensuring ease of use and quick adoption for effective communication.
 
